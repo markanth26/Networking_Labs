@@ -6,13 +6,13 @@ This project simulates a complex **Service Provider core network architecture** 
 ---
 
 ## 1. Network Architecture and Protocol Layering
-The design employs a three-tiered protocol architecture to provide secure, scalable **Layer 3 VPN (L3VPN)** service:
+The design employs a three-tiered protocol architecture to provide secure, scalable service:
 
 | Protocol | Role | Skill Demonstrated |
 | :--- | :--- | :--- |
 | **OSPF** | **Interior Gateway Protocol (IGP).** Used to distribute the loopback addresses of the Provider Edge (PE) routers across the backbone. | Mastery of link-state routing and stable core routing. |
 | **MPLS (LDP)** | **Data Plane.** Provides the Label Switched Path (LSP) across the core network, ensuring high-speed label-based traffic forwarding. | Expertise in traffic engineering and LDP configuration. |
-| **BGP (VPNv4)** | **Control Plane.** Distributes **costumer networks** between the PE routers, | Advanced knowledge of BGP route reflectors and multiprotocol extensions. |
+| **BGP ** | **Control Plane.** Distributes **costumer networks** between the PE routers, | Advanced knowledge of BGP route reflectors and multiprotocol extensions. |
 
 ---
 
