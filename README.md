@@ -1,4 +1,5 @@
- MPLS VPN DEPLOYMENT: BGP over OSPF with LibreNMS Integration
+MPLS VPN DEPLOYMENT: BGP over OSPF with LibreNMS Integration
+
 Executive Summary
 This project simulates a complex Service Provider core network architecture using BGP over an OSPF backbone with MPLS for traffic forwarding. This demonstrates expertise in carrier-grade routing, traffic engineering, and essential Network Operations (NetOps) functions via Network Monitoring System (NMS) integration.
 
